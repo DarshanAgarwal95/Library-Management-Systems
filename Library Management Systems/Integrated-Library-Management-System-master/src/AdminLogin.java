@@ -25,7 +25,7 @@ public class AdminLogin {
 
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
-			public void run() {//LOL
+			public void run() { //LOL
 				try {
 					AdminLogin window = new AdminLogin();
 					window.frame.setVisible(true);
